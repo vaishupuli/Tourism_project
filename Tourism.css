@@ -1,0 +1,25 @@
+
+.main-heading {
+    text-align: center;
+}
+
+.button {
+    background-color: blue;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 38px;
+    width: 138px;
+}
+
+.bg-container {
+    background-image: URL("https://img.freepik.com/free-photo/chair-table-dinning-beach-sea-with-blue-sky_74190-6094.jpg?w=740&t=st=1658461838~exp=1658462438~hmac=1add57073025eef02e6a29ca9361065d23db4d9d64419639b3ce1cf6fb5c98e4");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
